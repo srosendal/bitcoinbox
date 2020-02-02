@@ -1,3 +1,7 @@
+// Code for Bitcoin Game Box
+// Author: Sikker Rosendal
+// Year: 2020
+
 #include "ThingSpeak.h"
 //#include <CoinMarketCapApi.h>
 #include <ESP8266WiFi.h>
